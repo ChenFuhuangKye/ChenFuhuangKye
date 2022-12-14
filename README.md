@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ChenFuhuangKye
 - 👀 I’m interested in C
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning C#, python
+
 
 <!---
 ChenFuhuangKye/ChenFuhuangKye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
